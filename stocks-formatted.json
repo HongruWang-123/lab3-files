@@ -1,0 +1,36 @@
+[
+    {
+      "model": "MacBook Pro 2021",
+      "name": "Apple MacBook Pro 2021",
+      "category": "Laptop",
+      "specifications": "M1 Pro, 16GB RAM, 1TB SSD",
+      "manufacturer": "Apple",
+      "address": "Cupertino, California, USA",
+      "releaseDate": "2021-10-18",
+      "stockCode": 12345,
+      "popularity": 85
+    },
+    {
+      "model": "iMac 2020",
+      "name": "Apple iMac 27-inch 2020",
+      "category": "Desktop",
+      "specifications": "Intel Core i9, 32GB RAM, 1TB SSD",
+      "manufacturer": "Apple",
+      "address": "Cupertino, California, USA",
+      "releaseDate": "2020-08-04",
+      "stockCode": 44556,
+      "popularity": 77
+    },
+    {
+      "model": "Dell XPS 13",
+      "name": "Dell XPS 13 9310",
+      "category": "Laptop",
+      "specifications": "Intel Core i7, 16GB RAM, 512GB SSD",
+      "manufacturer": "Dell",
+      "address": "Round Rock, Texas, USA",
+      "releaseDate": "2021-01-12",
+      "stockCode": 67890,
+      "popularity": 78
+    }
+  ]
+  
