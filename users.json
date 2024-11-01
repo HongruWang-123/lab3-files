@@ -1,27 +1,5 @@
 [
   {
-    "id": 1,
-    "user": {
-      "firstname": "Jacquette",
-      "lastname": "Marion",
-      "email": "jmarion0@nyu.edu",
-      "address": "207 Ryan Avenue",
-      "city": "Lubbock",
-      "state": "Texas",
-      "zip": "79491"
-    },
-    "portfolio": [
-      {
-        "model": "MacBook Pro 2021",
-        "owned": 2
-      },
-      {
-        "model": "iMac 2020",
-        "owned": 1
-      }
-    ]
-  },
-  {
     "id": 2,
     "user": {
       "firstname": "Vaughan",
