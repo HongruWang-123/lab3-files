@@ -11,10 +11,8 @@
       "zip": "79491"
     },
     "portfolio": [
-      {
-        "model": "MacBook Pro 2021",
-        "owned": 2
-      }
+      { "model": "MacBook Pro 2021", "owned": 2 },
+      { "model": "iMac 2020", "owned": 1 }
     ]
   },
   {
@@ -29,10 +27,7 @@
       "zip": "79705"
     },
     "portfolio": [
-      {
-        "model": "Dell XPS 13",
-        "owned": 5
-      }
+      { "model": "Dell XPS 13", "owned": 5 }
     ]
   }
 ]
