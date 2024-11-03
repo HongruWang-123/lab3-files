@@ -8,7 +8,8 @@
       "address": "Cupertino, California, USA",
       "releaseDate": "2021-10-18",
       "stockCode": 12345,
-      "popularity": 85
+      "popularity": 85,
+       "description": "A high-performance laptop for professionals."
     },
     {
       "model": "iMac 2020",
@@ -19,7 +20,8 @@
       "address": "Cupertino, California, USA",
       "releaseDate": "2020-08-04",
       "stockCode": 44556,
-      "popularity": 77
+      "popularity": 77,
+      "description": "an ideal all-in-one machine for creatives, combining cutting-edge performance, great new features for working from home, and that iconic design."
     },
     {
       "model": "Dell XPS 13",
@@ -30,7 +32,8 @@
       "address": "Round Rock, Texas, USA",
       "releaseDate": "2021-01-12",
       "stockCode": 67890,
-      "popularity": 78
+      "popularity": 78,
+      "description": "a thin and light business laptop."
     }
   ]
   
