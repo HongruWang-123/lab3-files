@@ -12,10 +12,6 @@
     },
     "portfolio": [
       {
-        "model": "MacBook Pro 2021",
-        "owned": 2
-      },
-      {
         "model": "iMac 2020",
         "owned": 1
       }
